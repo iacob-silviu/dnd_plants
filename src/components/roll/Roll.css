@@ -1,0 +1,63 @@
+.roll-button {
+  height: 2.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  font-size: 18px;
+
+  background-color: var(--primary);
+  color: var(--onPrimary);
+
+  border-width: 0;
+  border-radius: var(--border-radius);
+
+  cursor: pointer;
+}
+
+.btn-close {
+  width: 2.5rem;
+  height: 2.5rem;
+
+  font-size: 24px;
+  background-color: transparent;
+
+  border-width: 0;
+  cursor: pointer;
+}
+
+.btn-close:hover,
+.btn-close:focus {
+  background-color: var(--surface);
+}
+
+button:hover,
+button:focus {
+  opacity: 0.9;
+}
+
+.dialog-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dialog-header h2 {
+  margin: 0;
+}
+
+.roll-dialog {
+  background-color: var(--background);
+
+  border-radius: var(--border-radius);
+  border-width: 2px;
+
+  max-width: 70vw;
+  max-height: 80vh;
+}
+
+
+@media (max-width:767px) {
+  .roll-dialog {
+    max-width: 90vw;
+    max-height: 90vh;
+  }
+}
