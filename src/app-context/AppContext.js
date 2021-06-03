@@ -40,7 +40,7 @@ function AppProvider({ children }) {
 
   useEffect(() => {
     Tabletop.init({
-      key: "1joq6oGR_nb_mHa4-w2r-EC50qWim7mWvqiN_K1WxGRE",
+      key: "1fGCZUU10Uws_KANUwLZJeTmeBcwXVVCXkxC_asQWa-0",
       simpleSheet: true,
     })
       .then((data) => {
