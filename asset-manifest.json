@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dnd_plants/static/css/main.72152f36.chunk.css",
-    "main.js": "/dnd_plants/static/js/main.7b1b1b91.chunk.js",
-    "main.js.map": "/dnd_plants/static/js/main.7b1b1b91.chunk.js.map",
+    "main.js": "/dnd_plants/static/js/main.37b49a38.chunk.js",
+    "main.js.map": "/dnd_plants/static/js/main.37b49a38.chunk.js.map",
     "runtime-main.js": "/dnd_plants/static/js/runtime-main.2c3e6a52.js",
     "runtime-main.js.map": "/dnd_plants/static/js/runtime-main.2c3e6a52.js.map",
     "static/js/2.7e7428fb.chunk.js": "/dnd_plants/static/js/2.7e7428fb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2c3e6a52.js",
     "static/js/2.7e7428fb.chunk.js",
     "static/css/main.72152f36.chunk.css",
-    "static/js/main.7b1b1b91.chunk.js"
+    "static/js/main.37b49a38.chunk.js"
   ]
 }
